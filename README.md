@@ -24,29 +24,44 @@ Deep Learning
 Tools and Libraries:
 
 Python
+
 TensorFlow/PyTorch
+
 OpenCV
+
 Dlib
 
 Dataset:
+
 [ we use dataset from kaggle of 95 thousand of image of real and fake ]
 
 Features
+
 Data preprocessing and augmentation.
+
 Model architecture and training scripts.
+
 Evaluation and performance metrics.
+
 Sample deepfake detection results.
+
 Deployment script for real-time detection (if applicable).
 
 
 Installation
+
 Clone the repository and install the required dependencies.
-https://github.com/Bnl987/DeepFakeDetection.git
+
+git clone https://github.com/Bnl987/DeepFakeDetection.git
+
 cd DeepFakeDetection
+
 pip install -r requirements.txt
 
 Conntributing
+
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes or improvements.
 
 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
